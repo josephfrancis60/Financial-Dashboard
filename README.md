@@ -1,6 +1,7 @@
 # Financial Dashboard Project Report 📊
 A dynamic Power BI financial dashboard providing real-time insights on income, expenses, savings, and growth trends, empowering users to make data-driven financial decisions.
-[Click here](https://app.powerbi.com/view?r=eyJrIjoiMTFiM2ViMTMtNzNmZi00YzNjLWFlNDgtMWQ2OGUxMjBjMjU2IiwidCI6IjcyZjJhZDk4LWM0OWMtNDBjOC1hYmFmLWQ5ZWMwZmVmMmJjMSIsImMiOjF9) for live demo of the Dashboard.
+
+#### [Click here](https://app.powerbi.com/view?r=eyJrIjoiMTFiM2ViMTMtNzNmZi00YzNjLWFlNDgtMWQ2OGUxMjBjMjU2IiwidCI6IjcyZjJhZDk4LWM0OWMtNDBjOC1hYmFmLWQ5ZWMwZmVmMmJjMSIsImMiOjF9) for live demo of the Dashboard.
 
 ## Overview of Dashboard
 ![thumbnail ](https://github.com/user-attachments/assets/d367e6d7-56d7-4625-a63e-6cb183af02e5)

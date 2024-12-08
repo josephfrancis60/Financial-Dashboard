@@ -144,5 +144,5 @@ The dataset comprised income, expenses, savings, and targets recorded over diffe
 
 ---
 
-## MIT Licence
+## Licence
 This project is licensed under the MIT Licence - see the [LICENSE](./LICENSE) file for details.

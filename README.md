@@ -143,3 +143,6 @@ The dataset comprised income, expenses, savings, and targets recorded over diffe
 - Provided actionable insights for improving financial efficiency and achieving long-term goals.
 
 ---
+
+## MIT Licence
+This project is licensed under the MIT Licence - see the [LICENSE](./LICENSE) file for details.
